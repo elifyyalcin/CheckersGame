@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  CheckersGame.cpp
+c:\users\user\desktop\checkersgame\checkersgame\checkersgame.cpp(360): warning C4101: 'value': yerel değişken başvurusu kaldırıldı
+c:\users\user\desktop\checkersgame\checkersgame\checkersgame.cpp(1176): warning C4101: 's': yerel değişken başvurusu kaldırıldı
+c:\users\user\desktop\checkersgame\checkersgame\checkersgame.cpp(882): warning C4715: 'InputValidation': tüm denetim yolları değer döndürmez
+c:\users\user\desktop\checkersgame\checkersgame\checkersgame.cpp(1106): warning C4715: 'InputValidationKing': tüm denetim yolları değer döndürmez
+  CheckersGame.vcxproj -> C:\Users\user\Desktop\CheckersGame\Debug\CheckersGame.exe
